@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MobileFood</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="food_list_label">Food List</string>
+    <string name="food_detail_label">Food Details</string>
+
+    <string name="details_quantity_left">Quantity: %1$s</string>
+    <string name="details_nutrients">Nutrients: %1$s </string>
+    <string name="details_origin">Origin: %1$s </string>
+    <string name="details_price">Price: %1$s </string>
+    <string name="default_food_name_placeholder">Avocadoes</string>
+    <string name="food_detail_transition_name">foodImage</string>
+    <string name="food_image">food_image</string>
+    <string name="origin_placeholder">Spain</string>
+    <string name="quantity_placeholder">Quantity: 4 left</string>
+    <string name="nutrients_placeholder">Vitamin B, Vitamin K</string>
+    <string name="description_placeholder">A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common \'Hass\', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices.</string>
+    <string name="fruit_image">🥑</string>
+    <string name="price_placeholder">Price: 6.50</string>
+    <string name="origin_placeholder_new">Origin: Portugal</string>
+    <string name="quantity_4">Quantity: 4 🥑</string>
+    <string name="nutrients_vitamin_b_vitamin_k">Nutrients: Vitamin B, Vitamin K</string>
+</resources>
