@@ -5,6 +5,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.example.mobilefood.R
 
+// This is an extension function to load the image of each cities coming from firebase
 fun ImageView.load(imageAddress: String, onClick: (() -> Unit)? = null) {
     val imageView = this
     Glide.with(this)

@@ -9,6 +9,12 @@ import com.example.mobilefood.databinding.LayoutFoodItemBinding
 import com.example.mobilefood.model.FoodListItem
 import com.example.mobilefood.utils.load
 
+/**
+ * This is the adapter class that helps bind the data coming from data manager class into views
+ * that the user can see and interact with.
+ * It receives an arrayList of the foods and an implementation of the a listener to handle click
+ * events
+ */
 class FoodListAdapter(
     private var foodListItems: ArrayList<FoodListItem>,
     private val listener: ((view: View, foodListItem: FoodListItem) -> Unit)? = null

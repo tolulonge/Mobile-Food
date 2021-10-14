@@ -17,7 +17,9 @@ import com.example.mobilefood.model.FoodListItem
 import com.google.android.material.transition.MaterialContainerTransform
 import com.google.android.material.transition.MaterialElevationScale
 
-
+/**
+ * This fragment displays all the list of food in the data manager class
+ */
 class FoodList : Fragment() {
 
     private var _binding: FragmentListFoodBinding? = null

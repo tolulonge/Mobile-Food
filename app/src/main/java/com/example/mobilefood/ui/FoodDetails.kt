@@ -11,6 +11,9 @@ import com.example.mobilefood.databinding.FragmentDetailFoodBinding
 import com.example.mobilefood.model.FoodListItem
 import com.example.mobilefood.utils.load
 
+/**
+ * This food details fragment helps display the details of a selected food from the data manager class
+ */
 class FoodDetails : Fragment() {
 
     private var _binding: FragmentDetailFoodBinding? = null
